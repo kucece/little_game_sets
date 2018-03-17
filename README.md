@@ -1,11 +1,13 @@
 # little_game_sets
 
-	lianliankan	
+	1.lianliankan	
 
-	snake
+	2.snake
 	
-	2048
+	3.2048
 
-	do not step on the white bricks
+	4.do not step on the white bricks
+
+	5.flappy bird
 
 to be continued...
